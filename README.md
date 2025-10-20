@@ -1,6 +1,5 @@
 # Exno.10-Prompt-Engg
-# Name : Abinaya.K
-# Register no: 212222050002
+# Register no: 25010862
 # Aim:
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
